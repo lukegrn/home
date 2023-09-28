@@ -11,5 +11,8 @@
     "url": "github.com/jlgre/blog"
   },
   "author": "Luke Green <me@lukegreen.xyz>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
 }
