@@ -13,9 +13,15 @@ const writeTemplate = async (template, rendered) => {
 };
 
 const renderTemplates = () => {
-  const templatesToCompile = [["index", {}]];
+  const templatesToCompile = [
+    // Root
+    ["index"],
+    // Blog pages
+    ["blog/index"],
+    ["blog/post1"],
+  ];
 
-  templatesToCompile.forEach(([template, opts]) => {
+  templatesToCompile.forEach(([template, opts = {}]) => {
     pug.renderFile(`./templates/${template}.pug`, opts, (err, rendered) => {
       if (err) throw err;
       writeTemplate(template, rendered);
