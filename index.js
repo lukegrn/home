@@ -16,6 +16,8 @@ const renderTemplates = () => {
   const templatesToCompile = [
     // Root
     ["index"],
+    ["about"],
+    ["blog"],
     // Blog pages
     ["blog/index"],
     ["blog/post1"],

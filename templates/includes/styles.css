@@ -1,0 +1,30 @@
+:root {
+  font-family: "JetBrains Mono", monospace;
+}
+
+a.noul {
+  text-decoration: none;
+}
+
+a.title {
+  color: black;
+}
+
+h1,
+body {
+  display: flex;
+  justify-content: center;
+}
+
+body > div {
+  width: 60rem;
+}
+
+ul.mainnav {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul.mainnav > li {
+  list-style-type: none;
+}

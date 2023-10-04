@@ -1,0 +1,9 @@
+include ../mixins/listlink.pug
+
+h1
+  a.noul.title(href="/") lukegreen.xyz
+
+ul.mainnav
+  +listlink('/about.html', 'About')
+  +listlink('/blog.html', 'Blog')
+  +listlink('https://google.com', 'Google')
