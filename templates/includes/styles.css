@@ -1,13 +1,20 @@
 :root {
   font-family: "JetBrains Mono", monospace;
+  background-color: #f1f1f1;
+  color: #54433a;
 }
 
 a.noul {
   text-decoration: none;
 }
 
+a {
+  color: #3d6568;
+  color: #465aa4;
+}
+
 a.title {
-  color: black;
+  color: #54433a;
 }
 
 h1,
