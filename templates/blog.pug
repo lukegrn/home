@@ -1,11 +1,6 @@
-doctype html
-html
-  include includes/head.pug
-
-  body
-    div
-      include includes/nav.pug
-      ul
-        each post in posts
-          li
-            a(href=`blog/posts/${post}.html`)= post
+extends layouts/page
+block main
+  ul
+    each post in posts
+      li
+        a(href=`blog/posts/${post}.html`)= post
