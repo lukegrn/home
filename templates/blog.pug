@@ -5,4 +5,7 @@ html
   body
     div
       include includes/nav.pug
-      p Hello, blog!
+      ul
+        each post in posts
+          li
+            a(href=`blog/posts/${post}.html`)= post
