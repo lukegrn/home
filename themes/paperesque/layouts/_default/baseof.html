@@ -50,7 +50,7 @@
   </div>
   {{ block "content" . }}{{ end }}
   {{ if not .Params.hide_footer }}
-    {{ block "footer" . }}{{ end }}
+    {{- partial "single-footer-customisation" . -}}
   {{ end }}
   </body>
 </html>

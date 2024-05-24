@@ -1,3 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lukegreen.xyz'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Luke Green'
+theme = 'paperesque'
+enableRobotsTXT = true
+
+[[params.topmenu]]
+name = 'about'
+url = 'about/'
+
+[[params.topmenu]]
+name = 'thoughts'
+url = 'thoughts/'
