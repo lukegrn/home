@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test</title>
-      <link>http://localhost:1313/thoughts/post/</link>
+      <title>Hello, website!</title>
+      <link>http://localhost:1313/thoughts/hello-website/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/thoughts/post/</guid>
-      <description>test Here is some post content right here</description>
+      <guid>http://localhost:1313/thoughts/hello-website/</guid>
+      <description>Welcome! Welcome to my website. Over the years, many different sites created by me have lived at this domain. This is the new one, and who knows how long it will be here. It is different from the previous ones, which mostly served as a way to prove to potential employers that I could indeed write code. Now that I have, and have a job :-), this is more to serve as my personal home on the web; although I imagine at some point my resume and some projects I have created will end up here.</description>
     </item>
   </channel>
 </rss>
