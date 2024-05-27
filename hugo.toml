@@ -15,3 +15,7 @@ url = 'thoughts/'
 [[params.topmenu]]
 name = 'alternatives'
 url = 'alternatives/'
+
+[[params.topmenu]]
+name = 'recipes'
+url = 'recipes/'

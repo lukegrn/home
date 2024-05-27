@@ -1,4 +1,9 @@
-# About
+---
+title: About
+date: 2024-05-27
+params:
+    author: Luke Green
+---
 
 Welcome! Here are some things I am:
 

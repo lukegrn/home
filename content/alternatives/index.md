@@ -118,7 +118,7 @@ not support a business like that.
 #### Alternatives
 
 **Shop locally**: This is the best option. When I have the option, I always try
-to shop at a locally owner store.
+to shop at a locally owned store.
 
 **Shop at real stores**: Sometimes local stores may not have what I want, in
 that case I try to shop at a real store, even if it is a chain.
