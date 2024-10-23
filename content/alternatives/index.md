@@ -70,7 +70,7 @@ link-aggregation nature of Reddit.
     Reddit. If I do, I'll update this to reflect how that experience has been.
 
 -   **Local new sites**: I used Reddit a lot to see what was going on in my
-    local area. Luckily, this was solved in eternity past by _the newspaper_.
+    local area. This problem was solved in eternity past by _the newspaper_.
     Unfortunately, here, they only circulate monthly but all have real websites
     that stay up to date with local news.
 
