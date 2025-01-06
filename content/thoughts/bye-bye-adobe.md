@@ -5,6 +5,15 @@ params:
     author: Luke Green
 ---
 
+## UPDATE 12/09/2024
+
+I have restarted my Adobe Photography subscription. And yes, I feel like a
+sellout. Mainly I found a few specific instances where Darktable _really_
+underperformed Lightroom. Maybe I'll write about that. If Darktable (or anything
+else) works for you, _please_ keep using it and stick it to Adobe. I wish I was.
+
+## Original post
+
 I canceled my Adobe Photography subscription[^1].
 
 ## Some background

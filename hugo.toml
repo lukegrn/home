@@ -16,3 +16,6 @@ url = 'thoughts/'
 name = 'alternatives'
 url = 'alternatives/'
 
+[[params.topmenu]]
+name = 'scratch'
+url = 'scratch/'
