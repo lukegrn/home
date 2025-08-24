@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Luke Green'
 theme = 'paperesque'
 enableRobotsTXT = true
+categories = ['Book']
 
 [[params.topmenu]]
 name = 'about'

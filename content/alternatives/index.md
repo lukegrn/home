@@ -25,35 +25,34 @@ of alternatives for these two distinct purposes.
 
 #### Alternatives (socially)
 
--   **Instagram**: I've turned off suggested content[^1], which only shows me
-    things from people I follow. As well as only use Instagram in the browser.
-    But this is imperfect as the Algorithm is terrible at showing me what I
-    want, and great at showing me what will keep me on the app as long as
-    possible.
+- **Instagram**: I've turned off suggested content[^1], which only shows me
+  things from people I follow. As well as only use Instagram in the browser. But
+  this is imperfect as the Algorithm is terrible at showing me what I want, and
+  great at showing me what will keep me on the app as long as possible.
 
--   **Talk to your friends**: It seems absurd that I have to even write this.
-    But everything Instagram promises in terms of social interaction, can be
-    done by talking to your friends.
+- **Talk to your friends**: It seems absurd that I have to even write this. But
+  everything Instagram promises in terms of social interaction, can be done by
+  talking to your friends.
 
-    -   Ask them how their trip was
-    -   Send them pictures of cool things that happened to you
-    -   Just like, be their friend
+    - Ask them how their trip was
+    - Send them pictures of cool things that happened to you
+    - Just like, be their friend
 
 #### Alternatives (photography)
 
--   **[Flickr](https://flickr.com)**: I really like Flickr. It has somehow
-    survived the Algorithmization of social media. It is simple, serves as a
-    place to post my photos and looks at others whose work inspires me.
+- **[Flickr](https://flickr.com)**: I really like Flickr. It has somehow
+  survived the Algorithmization of social media. It is simple, serves as a place
+  to post my photos and looks at others whose work inspires me.
 
--   **This site**: I will likely add a portfolio section to show some of my
-    favorite work on this site.
+- **This site**: I will likely add a portfolio section to show some of my
+  favorite work on this site.
 
--   **Make projects**: I am hoping to start making physical projects of cohesive
-    photos I take.
+- **Make projects**: I am hoping to start making physical projects of cohesive
+  photos I take.
 
--   **Read/view projects**: Go to your library - they have loads of photo books
-    to check out. Specifically from old renowned photographers who you won't see
-    on the internet.
+- **Read/view projects**: Go to your library - they have loads of photo books to
+  check out. Specifically from old renowned photographers who you won't see on
+  the internet.
 
 ### Reddit
 
@@ -64,15 +63,15 @@ link-aggregation nature of Reddit.
 
 #### Alternatives
 
--   **An RSS feed**: After reading
-    [this article](https://www.staygrounded.online/p/a-well-curated-feed-reader-is-a-wonderful?utm_source=publication-search)
-    I have wanted to set up an RSS feed of things I would usually look for on
-    Reddit. If I do, I'll update this to reflect how that experience has been.
+- **An RSS feed**: After reading
+  [this article](https://www.staygrounded.online/p/a-well-curated-feed-reader-is-a-wonderful?utm_source=publication-search)
+  I have wanted to set up an RSS feed of things I would usually look for on
+  Reddit. If I do, I'll update this to reflect how that experience has been.
 
--   **Local new sites**: I used Reddit a lot to see what was going on in my
-    local area. This problem was solved in eternity past by _the newspaper_.
-    Unfortunately, here, they only circulate monthly but all have real websites
-    that stay up to date with local news.
+- **Local new sites**: I used Reddit a lot to see what was going on in my local
+  area. This problem was solved in eternity past by _the newspaper_.
+  Unfortunately, here, they only circulate monthly but all have real websites
+  that stay up to date with local news.
 
 ## Entertainment
 
@@ -87,17 +86,17 @@ consumption instead.
 
 #### Alternatives
 
--   **[Freetube](https://github.com/FreeTubeApp/FreeTube)**: This is a YouTube
-    client that allows you to turn off all suggestions. I have mine configured
-    to show the newest videos from channels I subscribe to. It does not show
-    shorts, and it does not show recommendations. It also, theoretically is more
-    private. I haven't done loads of reasearch on that, but currently YouTube is
-    the only thing tying me to Google. Unfortunately, it also seems to be capped
-    to 1080p playback, which is unfortunate.
+- **[Freetube](https://github.com/FreeTubeApp/FreeTube)**: This is a YouTube
+  client that allows you to turn off all suggestions. I have mine configured to
+  show the newest videos from channels I subscribe to. It does not show shorts,
+  and it does not show recommendations. It also, theoretically is more private.
+  I haven't done loads of reasearch on that, but currently YouTube is the only
+  thing tying me to Google. Unfortunately, it also seems to be capped to 1080p
+  playback, which is unfortunate.
 
--   **Add channels to your RSS feed**: I don't do this, namely because I don't
-    have an RSS feed, but I would love to get to a point where I have
-    RSS+something like youtube-dl[^2] to watch videos locally.
+- **Add channels to your RSS feed**: I don't do this, namely because I don't
+  have an RSS feed, but I would love to get to a point where I have
+  RSS+something like youtube-dl[^2] to watch videos locally.
 
 ### Streaming services
 
@@ -105,6 +104,11 @@ I am currently dependent on Spotify for my music, and TV streaming services for
 movies and TV. However, I would love to start buying physical copies of music,
 tv, and movies. Though, that is extremely expensive, so who knows if I will do
 it.
+
+**Update Aug, 11, 2025** I bought an iPod classic a few months back, and have
+been loading it up with music from [bandcamp](https://bandcamp.com/). Very fun
+and I don't have to deal with Spotify's AI-generated "cozy morning vibes"
+playlists.
 
 ## Shopping
 
@@ -144,33 +148,48 @@ that supports books _not_ purchased through the Kindle store is great.
 
 Lots of things to put here, so I'll try and keep it short and sweet.
 
--   **Adobe Lightroom**: I really want to use
-    [Darktable](https://www.darktable.org/) because its free, open-source, and
-    AI-free. But I haven't been able to get it to work well enough for me.
+- **Adobe Lightroom**: I really want to use
+  [Darktable](https://www.darktable.org/) because its free, open-source, and
+  AI-free. But I haven't been able to get it to work well enough for me.
 
--   **Windows**: I use a Mac at home, but would really prefer to use Linux[^3].
-    Apple definitely has its own anti-compete issues that I would rather not
-    support. However, Lightroom doesn't run on Linux, and Apple cares
-    significantly more about my privacy than Windows.
+- **Windows**: I use a Mac at home, but would really prefer to use Linux[^3].
+  Apple definitely has its own anti-compete issues that I would rather not
+  support. However, Lightroom doesn't run on Linux, and Apple cares
+  significantly more about my privacy than Windows.
 
--   **G-Mail**: It's _so_ easy to use a different email provider. Specifically,
-    I choose one I have to pay for[^4], as they are much more likely to value my
-    privacy. Its also easy to set it up to use this domain.
+- **G-Mail**: It's _so_ easy to use a different email provider. Specifically, I
+  choose one I have to pay for[^4], as they are much more likely to value my
+  privacy. Its also easy to set it up to use this domain.
 
--   **Google search**: Google search has gotten worse, and they are adding AI
-    summaries which I am not interested in. I use
-    [duckduckgo](https://duckduckgo.com).
+- **Google search**: Google search has gotten worse, and they are adding AI
+  summaries which I am not interested in. I use
+  [duckduckgo](https://duckduckgo.com). **Update Aug 11, 2025** Duckduckgo
+  started adding AI overviews, and also not giving great results. I am now using
+  [Startpage](https://www.startpage.com/) instead
 
--   **VSCode**: Microsoft classicly has a parasitic relationship with
-    open-source, and I expect the same for VSCode eventually. Neovim is perfect
-    for my use case.
+- **VSCode**: Microsoft classicly has a parasitic relationship with open-source,
+  and I expect the same for VSCode eventually. Neovim is perfect for my use
+  case. **Update August 11, 2025** I am currently using VSCode at work for
+  remote debugging in the browser - you can get this to work with NeoVim but its
+  an adventure.
 
--   **Google Chrome**: I use Firefox.
+- **Google Chrome**: I use Firefox. **Update August, 11, 2025** Firefox released
+  a really sketchy update to their terms of service [^5] - namely granting
+  license rights to _everything I do in the browser_ - so I'm using
+  [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+  now. I long for the day where there's a good, open source, non-big-business
+  backed browser, but that day may never come.
 
 [^1]:
     I have to do this every thirty days, and only from the app, so that's
     annoying and definitely maliciously designed by Meta.
 
 [^2]: https://github.com/ytdl-org/youtube-dl
+
 [^3]: which I do at work
+
 [^4]: https://duckduckgo.com/?t=ffab&q=if+its+free+you+are+the+product&ia=web
+
+[^5]:
+    https://www.mozilla.org/en-US/about/legal/terms/services/ - specifically
+    "Your Content in Our Services"
