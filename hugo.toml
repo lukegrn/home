@@ -6,10 +6,6 @@ enableRobotsTXT = true
 categories = ['Book']
 
 [[params.topmenu]]
-name = 'about'
-url = 'about/'
-
-[[params.topmenu]]
 name = 'thoughts'
 url = 'thoughts/'
 
@@ -17,6 +13,3 @@ url = 'thoughts/'
 name = 'alternatives'
 url = 'alternatives/'
 
-[[params.topmenu]]
-name = 'scratch'
-url = 'scratch/'
